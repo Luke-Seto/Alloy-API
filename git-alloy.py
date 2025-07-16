@@ -7,6 +7,7 @@ url = "https://sandbox.alloy.co/v1/evaluations"
 headers = {
     "accept": "application/json",
     "content-type": "application/json",
+	#Add ALLoy API Key
     "authorization": "Basic"
 }
 
