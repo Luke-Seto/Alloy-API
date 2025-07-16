@@ -497,7 +497,7 @@
             let emoji = '';
             
             if (alloy === 'approved') {
-                message = `Welcome, ${fName} ${lName}! Access granted.`;
+                message = `Hey ${fName} ${lName}, you're all set! Welcome aboard!`;
                 emoji = '🎉';
             } else if (alloy === 'manual review') {
                 message = `Thanks, ${fName} ${lName}! We’ve received your application and will be in touch soon.`;
@@ -506,7 +506,7 @@
                 message = `Hi ${fName} ${lName}, unfortunately your application was not successful this time. You're welcome to try again in a few minutes.`;
                 emoji = '🚫';
             } else {
-                message = `Hey, ${fName} ${lName}! It's great to meet you!`;
+                message = `Uh-oh, we ran into a hiccup. Give it another go!`;
                 emoji = '👋';
             }
             
