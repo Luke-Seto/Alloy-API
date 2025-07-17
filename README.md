@@ -10,9 +10,9 @@ A simple web application that allows users to sign up for a credit card through 
 
 **Getting Started**
 
-1. Add your Basic authentication token to the Python file
+1. Add your Token:Secret to the TXT file
    ```sh
-   Example - "authorization": "Basic xxx"
+   Example - "Token:Secret"
    ```
 2. Run the python file and open the webpage
 
