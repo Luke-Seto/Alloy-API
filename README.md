@@ -10,11 +10,11 @@ A simple web application that allows users to sign up for a credit card through 
 
 **Getting Started**
 
-1. Add your Token:Secret to the TXT file
+1. Add your Token:Secret to the TXT file.
    ```sh
    Example - Token:Secret
    ```
-2. Run the Python file and open the webpage
+2. Run the Python file and open the webpage.
 
 <img width="1434" height="1253" alt="image" src="https://github.com/user-attachments/assets/9d9e012a-110c-4135-9614-42b22cf7de17" /> <br><br>
 
@@ -36,7 +36,7 @@ graph TD;
 
 ```
 
-4. Depending on the Summary Outcome, a pop-up will display showing their status
+4. Depending on the Summary Outcome, a pop-up will display their status.
 
 <p align="center">
   <img width="611" height="426" alt="image" src="https://github.com/user-attachments/assets/44d9bbd9-4570-43f6-80d5-3aa589398f2f" />
