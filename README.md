@@ -12,13 +12,13 @@ A simple web application that allows users to sign up for a credit card through 
 
 1. Add your Token:Secret to the TXT file
    ```sh
-   Example - "Token:Secret"
+   Example - Token:Secret
    ```
-2. Run the python file and open the webpage
+2. Run the Python file and open the webpage
 
 <img width="1434" height="1253" alt="image" src="https://github.com/user-attachments/assets/9d9e012a-110c-4135-9614-42b22cf7de17" /> <br><br>
 
-3. After the user fills out the Sign Up form, the information will be passed to Alloy API for fraud evaluation<br><br>
+3. After the user fills out the Sign Up form, the information will be passed to Alloy API for fraud evaluation. The form validates that all the information is filled out before submitting. <br><br>
 
 **Use Case**
 ```mermaid
